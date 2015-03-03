@@ -41,3 +41,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# dduda2015 - custom ignore values
+# VIM swap files
+*.swp
+#Win exe
+*.exe
