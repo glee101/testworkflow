@@ -45,5 +45,6 @@ Temporary Items
 # dduda2015 - custom ignore values
 # VIM swap files
 *.swp
+*~
 #Win exe
 *.exe
