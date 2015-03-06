@@ -7,7 +7,8 @@ int main()
   cout << "Hello World!" << endl;
   //Adding french
   cout << "Bonjour tout le monde a fusionne" << endl;
-  //Continuing to edit on my private branch
+  //Latin
+  cout << "salve world" << endl;
   //Klingon!
   cout << "qo' vIvan" << endl;
 }
